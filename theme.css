@@ -1,0 +1,33 @@
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css');
+@import url('https://fonts.googleapis.com/css2?family=Iceland&display=swap');
+
+:root {
+  --background: url('https://nordnorsk.vitensenter.no/sites/default/files/2022-10/cover-image.jpg');
+  --backgroundsize: cover;
+  --backgroundposition: center;
+  --backgroundblur: 0px;
+  --popout: url('https://img.freepik.com/free-photo/gradient-blue-abstract-background-smooth-dark-blue-with-black-vignette-studio_1258-53634.jpg');
+  --popoutsize: var(--backgroundsize);
+  --backgroundposition: center;
+  --popoutblur: 0px;
+  --transparencycolor: 0,0,0;
+  --accentcolor: 7,61,35;
+  --backdrop: rgb(245,0,0,0.85);
+  --textshadow: rgb(15,22,19,0);
+  --transparencyalpha: 0.1;
+  --messagetransparency: 0.22;
+  --guildchanneltransparency: 0.04;
+  --chatinputtransparency: 0;
+  --memberlisttransparency: 0;
+  --font: Iceland;
+  --textbrightest: 36,131,69;
+  --textbrighter: 44,172,115;
+  --textbright: 55,156,72;
+  --textdark: 52,117,35;
+  --textdarker: 70,147,15;
+  --textdarkest: 18,107,11;
+  --settingsicons: 1;
+  --backdropsize: var(--background-size);
+  --backdropblur: 0px;
+  --version1_0_5: none;
+}
